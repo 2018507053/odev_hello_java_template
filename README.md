@@ -1,14 +1,9 @@
-# Autograding Example: Java
-This example project is written in Java, and tested with Gradle/JUnit.
+YBS409-Java ile OOP
 
-### The assignment
-The tests are currently failing because of an output mismatch. Fixing the `System.out.println` in the main method will make the tests green.
+2021 Güz
 
-### Setup command
-N/A
+Ödev 0
 
-### Run command
-`gradle test`
+Son gönderim tarihi 17.10.2021 23:59:59
 
-### Notes
-- The JDK is installed on GitHub Actions machines, so you're also able to directly invoke `javac`, `java`, or any other CLI command included in the JDK. 
+Ödev kapsamında tek yapmanız gereken, "src/main/java/com/example/project/Hello.java" dosyasındaki düzeltmeyi yapıp göndermektir.
